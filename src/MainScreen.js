@@ -12,7 +12,7 @@ import {
 
 import { 
     LogLevel, prettyPrintAmount,
-} from 'turtlecoin-wallet-backend';
+} from 'traaitt-wallet-backend';
 
 import Config from './Config';
 import Globals from './Globals';

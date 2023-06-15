@@ -37,9 +37,16 @@
     "request": "^2.88.0",
     "rn-nodeify": "^10.0.1",
     "stream-browserify": "^1.0.0",
-    "turtlecoin-wallet-backend": "https://github.com/turtlecoin/turtlecoin-wallet-backend-js",
+    "traaitt-wallet-backend": "5.4.4",
     "url": "^0.10.3",
-    "vm-browserify": "0.0.4"
+    "stream": "0.0.2",
+    "crypto-js": "4.1.1",
+    "vm-browserify": "0.0.4",
+    "react-native-gesture-handler": "2.12.0",
+    "react-native-reanimated": "3.3.0",
+    "react-native-screens": "3.21.0",
+    "@react-native-community/toolbar-android": "0.2.1",
+    "react-native-fs": "2.20.0"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",

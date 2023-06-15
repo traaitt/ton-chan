@@ -12,7 +12,7 @@ import {
 
 import {
     BlockchainCacheApi, WalletBackend
-} from 'turtlecoin-wallet-backend';
+} from 'traaitt-wallet-backend';
 
 import Globals from './Globals';
 import Config from './Config';

@@ -8,7 +8,7 @@ import React from 'react';
 
 import {
     BlockchainCacheApi, WalletBackend
-} from 'turtlecoin-wallet-backend';
+} from 'traaitt-wallet-backend';
 
 import {
     View
