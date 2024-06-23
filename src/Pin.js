@@ -8,7 +8,7 @@ import React from 'react';
 
 import {
     BlockchainCacheApi, WalletBackend
-} from 'traaitt-wallet-backend';
+} from '@trrxitte/xte-wallet-backend';
 
 import {
     View

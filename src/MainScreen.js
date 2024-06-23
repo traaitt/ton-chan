@@ -12,7 +12,7 @@ import {
 
 import { 
     LogLevel, prettyPrintAmount,
-} from 'traaitt-wallet-backend';
+} from '@trrxitte/xte-wallet-backend';
 
 import Config from './Config';
 import Globals from './Globals';

@@ -12,7 +12,7 @@ import {
 
 import {
     BlockchainCacheApi, WalletBackend
-} from 'traaitt-wallet-backend';
+} from '@trrxitte/xte-wallet-backend';
 
 import Globals from './Globals';
 import Config from './Config';
