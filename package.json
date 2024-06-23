@@ -37,7 +37,7 @@
     "request": "^2.88.0",
     "rn-nodeify": "^10.0.1",
     "stream-browserify": "^1.0.0",
-    "traaitt-wallet-backend": "5.4.4",
+    "@trrxitte/xte-wallet-backend": "0.0.5",
     "url": "^0.10.3",
     "stream": "0.0.2",
     "crypto-js": "4.1.1",
